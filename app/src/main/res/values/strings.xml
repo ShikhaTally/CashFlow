@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cash</string>
+    <string name="ai_powered_predictions">AI Powered Predictions</string>
+    <string name="welcome_to_cash_flow_forecasting">Welcome to Cash \n Flow Forecasting</string>
+    <string name="Get_insights_to_manage_and_predict_your_finance_efficiently">Get insights to manage and \npredict your finance efficiently</string>
+    <string name="app_logo">App Logo</string>
+    <string name="cash_now">CASH NOW</string>
+    <string name="todo">TODO</string>
+    <string name="next">Next</string>
+</resources>
